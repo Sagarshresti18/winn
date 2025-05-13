@@ -1,0 +1,20 @@
+{
+  "name": "freelancer-growth-platform",
+  "version": "1.0.0",
+  "description": "A platform to connect freelancers with clients and offer growth tools.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freelance",
+    "growth",
+    "mern"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-router-dom": "^7.6.0"
+  }
+}
